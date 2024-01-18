@@ -1,8 +1,13 @@
-### Hi! I'm Daniel Whymark 👋🏻
+### Hello there 👋🏻
 
-I am a Cloud Engineer based in Leeds and working at BJSS to help create awesome stuff.
+#### I'm Daniel Whymark 
 
-In my spare time I am a general technophile, lifelong gamer, and reader of many things.
+Cloud Engineer at [BJSS](https://www.bjss.com/)<br>
+
+- 🌍 Based in Leeds
+- 👨🏻‍💻 General technophile
+- 🎮 Lifelong gamer
+- 📚 Reader of many things
 
 The best way to get in touch is via the methods detailed on [my website](https://whymark.net/).
 
