@@ -9,7 +9,7 @@ Based in [Leeds](https://en.wikipedia.org/wiki/Leeds);<br>
 - 🎮 Lifelong gamer
 - 📚 Reader of many things
 
-The best way to get in touch is via the methods detailed on [my website](https://whymark.net/).
+The best way to get in touch is via one of the methods detailed on [my website](https://whymark.net/).
 
 ---
 
