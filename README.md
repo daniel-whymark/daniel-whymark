@@ -10,4 +10,4 @@ The best way to get in touch is via the methods detailed on [my website](https:/
 
 ---
 
-[![](https://github.com/daniel-whymark/daniel-whymark/blob/master/dino.gif)](#)
+[![](https://github.com/daniel-whymark/daniel-whymark/dino.gif)](#)
