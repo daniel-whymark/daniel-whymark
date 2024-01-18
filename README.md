@@ -10,4 +10,4 @@ The best way to get in touch is via the methods detailed on [my website](https:/
 
 ---
 
-[image](https://github.com/daniel-whymark/daniel-whymark/dino.gif)
+![Chrome Dino GIF](/dino.gif)
