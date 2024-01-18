@@ -6,4 +6,4 @@ In my spare time I am a general technophile, lifelong gamer, and reader of many 
 
 ---
 
-The best way to get in touch is via the methods on [my website](https://whymark.net/).
+The best way to get in touch is via the methods detailed on [my website](https://whymark.net/).
