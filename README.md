@@ -2,9 +2,9 @@
 
 #### I'm Daniel Whymark 
 
-Cloud Engineer at [BJSS](https://www.bjss.com/)<br>
+Cloud Engineer at [BJSS](https://www.bjss.com/);<br>
+Based in [Leeds](https://en.wikipedia.org/wiki/Leeds);<br>
 
-- 🌍 Based in Leeds
 - 👨🏻‍💻 General technophile
 - 🎮 Lifelong gamer
 - 📚 Reader of many things
